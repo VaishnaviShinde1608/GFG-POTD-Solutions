@@ -9,6 +9,8 @@ Each day includes a Python solution with clean code and comments.
 - **Day 2:** Search in Fully Rotated Sorted 2D Matrix
 - **Day 3:** Maximize Minimum Difference between k elements
 - **Day 4:** Minimum days to make M bouquets
+- **Day 5:** Maximize median after doing k addition operation
+- 
 
 👉 I will keep updating this repository daily with new solutions. 🚀  
 
