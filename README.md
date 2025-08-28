@@ -10,8 +10,9 @@ Each day includes a Python solution with clean code and comments.
 - **Day 3:** Maximize Minimum Difference between k elements
 - **Day 4:** Minimum days to make M bouquets
 - **Day 5:** Maximize median after doing k addition operation
-- 
-
+- **Day 6:** Check if a String is Subsequence of Other
+- **Day 7:** Count the number of possible triangles
+- **Day 8:** Maximize Number of 1's
 👉 I will keep updating this repository daily with new solutions. 🚀  
 
 #100DaysOfCode #GeeksforGeeks #POTD #DSA #Python #ProblemSolving #CodingChallenge
