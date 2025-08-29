@@ -13,6 +13,8 @@ Each day includes a Python solution with clean code and comments.
 - **Day 6:** Check if a String is Subsequence of Other
 - **Day 7:** Count the number of possible triangles
 - **Day 8:** Maximize Number of 1's
+- **"Day 9:** Smallest window containing all characters
+  
 👉 I will keep updating this repository daily with new solutions. 🚀  
 
 #100DaysOfCode #GeeksforGeeks #POTD #DSA #Python #ProblemSolving #CodingChallenge
