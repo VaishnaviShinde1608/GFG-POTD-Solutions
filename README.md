@@ -15,6 +15,7 @@ Each day includes a Python solution with clean code and comments.
 - **Day 8:** Maximize Number of 1's
 - **Day 9:** Smallest window containing all characters
 - **Day 10:** The Celebrity Problem
+- **Day 11:** Container With Most Water
   
 👉 I will keep updating this repository daily with new solutions. 🚀  
 
