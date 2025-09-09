@@ -16,6 +16,7 @@ Each day includes a Python solution with clean code and comments.
 - **Day 9:** Smallest window containing all characters
 - **Day 10:** The Celebrity Problem
 - **Day 11:** Container With Most Water
+- **Day 12:** Assign Mice Holes
   
 👉 I will keep updating this repository daily with new solutions. 🚀  
 
